@@ -7,7 +7,7 @@ const Header = () => {
         <h1 className="text-5xl text-center">Header</h1>
       </div>
     </header>
-  )
-}
+  );
+};
 
-export default Header
+export default Header;
